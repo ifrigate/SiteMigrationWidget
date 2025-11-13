@@ -13,7 +13,7 @@
 <div data-migration-popup
      data-new-site-url="https://ваш-новый-сайт.ru">
 </div>
-<script src="migration-popup.js"></script>
+<script src="https://ifrigate.ru/tools/migration-popup.js"></script>
 ```
 
 ### 2. Просто скопируйте этот код в `<body>` вашего сайта:
@@ -29,7 +29,7 @@
      data-button-text="Перейти на новый сайт"
      data-close-text="Остаться здесь">
 </div>
-<script src="path/to/migration-popup.js"></script>
+<script src="https://ifrigate.ru/tools/migration-popup.js"></script>
 ```
 
 ---
